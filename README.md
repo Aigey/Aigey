@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aigey
 - 👀 I’m interested in Tacos and VR
 - 🌱 I’m currently learning Unity and Blender
-- 💞️ I’m looking to collaborate on Vr Prjects
+- 💞️ I’m looking to collaborate on Vr Projects
 - 📫 How to reach me Telegram @Aigey Discord Aigey#0001
 
 <!---
